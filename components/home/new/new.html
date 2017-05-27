@@ -1,0 +1,33 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide" ng-repeat="item in banner">
+            <img src="{{item.pic}}" >
+        </div>
+    </div>
+    <div class="swiper-pagination"></div>
+
+</div>
+<ul class="new_moduleads">
+    <li ng-repeat="items in newads">
+        <img src="{{items.pic}}" alt="">
+        <p>{{items.words}}</p>
+    </li>
+
+</ul>
+<ul class="new_product">
+    <li ng-repeat="item in newads2">
+        <img src="{{item.pic}}" alt="">
+    </li>
+</ul>
+<div class="new_contant">
+    <h3>
+        -每天早10点-晚上8点上新-
+    </h3>
+    <ul class="new_main">
+        <li ng-repeat="item in newmain">
+            <img src="{{item.pic_url}}">
+            <p>{{item.main_title}}</p>
+            <h4><span>{{item.title}}</span><span></span><span class="new_right">{{item.residue}}</span></h4>
+        </li>
+    </ul>
+</div>

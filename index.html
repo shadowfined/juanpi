@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="jpw">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Title</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/swiper-3.4.1.min.css">
+    <script src="js/libs/jquery-1.7.1.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/swiper-3.4.1.min.js"></script>
+    <script src="js/libs/angular-ui-router.js"></script>
+    <script src="js/libs/angular-css.min.js"></script>
+    <script src="app.js"></script>
+    <script src="components/home/home.js"></script>
+    <script src="components/mine/mine.js"></script>
+    <script src="components/home/new/new.js"></script>
+    <script src="components/home/women/women.js"></script>
+    <script src="components/home/baby/baby.js"></script>
+    <script src="components/home/shoe/shoe.js"></script>
+</head>
+<body>
+    <div id="wrap">
+        <div id="main" ui-view></div>
+
+    </div>
+    <div id="tab">
+        <ul>
+            <li><a  ui-sref="home.new" ui-sref-opts="{reload:true}" href="">今日上新</a></li>
+            <li><a  ui-sref="mine" href="" >我的卷皮</a></li>
+        </ul>
+    </div>
+</body>
+</html>

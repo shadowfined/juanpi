@@ -1,0 +1,96 @@
+.women{
+    width:100%;
+    color: #bbb;
+}
+.w_headul{
+    height:99px;
+    width:100%;
+}
+.w_headul li{
+    height:100%;
+    width:25%;
+    float: left;
+}
+.w_headul li img{
+    width:100%;
+}
+.new_product{
+    height:228px;
+    border-top:12px solid #f4f4f8;
+
+}
+.new_product img{
+    display: block;
+    width:100%;
+    height:100%;
+}
+.new_product li{
+    float: left;
+    width:50%;
+    height:50%;
+}
+.new_product li:first-child{
+    width:50%;
+    height:100%;
+    border-right: 1px solid #f4f4f8;
+}
+.wmain {
+    background: #f4f4f8;
+    width:100%;
+    padding-top:12px;
+}
+.wskirt{
+    height:90px;
+}
+.wskirt li{
+    width:50%;
+    height:100%;
+    float: left;
+
+}
+.wskirt li img{
+    width:100%;
+}
+.wmain h3{
+    margin-top:12px;
+    height:48px;
+    font-weight: normal;
+    line-height:48px;
+    text-align: center;
+    background:#ffffff;
+    color: #333;
+}
+.new_main {
+    width:100%;
+}
+.new_main img{
+    display: block;
+    width:99%;
+}
+.new_main li{
+    width:50%;
+    height:244px;
+    float: left;
+    border-right: 1px solid #f4f4f8;
+}
+.new_main h4{
+    text-align:center;
+    height:20px;
+    line-height:20px;
+    font-size:12px;
+    font-weight: normal;
+
+}
+.new_main p{
+    color: #ff464e;
+    font-size: 13px;
+    height:24px;
+    line-height:24px;
+    text-align: center;
+}
+.new_main .new_right{
+    float: right;
+    color: #bbb;
+    font-size:12px;
+
+}

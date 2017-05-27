@@ -1,0 +1,221 @@
+{
+  "module_ads": {
+    "block_id": "249",
+    "multi_block": [
+      {
+        "show_type": 2,
+        "block_type": 14,
+        "split_line": "0",
+        "margin_enabled": 0,
+        "data": [
+          {
+            "child": [
+              {
+                "pic": "//s2.juancdn.com/bao/160905/9/0/57cd1455151ad1f6428b45bf_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "http://m.juanpi.com/qiang",
+                "words": "最后疯抢",
+                "bd_id": "2351",
+                "x_record": "1_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2351::1_1\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "//s2.juancdn.com/bao/160905/0/a/57cd1466151ad1cf368b4621_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "http://m.juanpi.com/jiu",
+                "words": "9.9包邮",
+                "bd_id": "2352",
+                "x_record": "1_2",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2352::1_2\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "//s2.juancdn.com/bao/160905/4/8/57cd14a2151ad1e1348b4633_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "https://tuan.juanpi.com/pintuan/?mjuanpi_wx=1",
+                "words": "拼团",
+                "bd_id": "2353",
+                "x_record": "1_3",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2353::1_3\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "//s2.juancdn.com/bao/160905/7/4/57cd14a7151ad1ab408b45ab_80x80.png?iopcmd=convert&Q=88&dst=png",
+                "url": "http://m.juanpi.com/yugao",
+                "words": "即将上线",
+                "bd_id": "2354",
+                "x_record": "1_4",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::1113::img_id::2354::1_4\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ],
+            "countnum": 4,
+            "shownum": 4
+          }
+        ]
+      },
+      {
+        "show_type": 1,
+        "block_type": 4,
+        "split_line": "1",
+        "margin_enabled": 10,
+        "data": [
+          {
+            "width": 1,
+            "triangle": 0,
+            "height": 0.608,
+            "child": [
+              {
+                "pic": "//s2.juancdn.com/bao/170523/0/5/5923f9b4ad0a49931e8b45b7_375x456.png?iopcmd=convert&Q=88&dst=png",
+                "url": "http://m.juanpi.com/cate/490",
+                "layout": "col",
+                "width": 0.5,
+                "height": 1,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7326",
+                "x_record": "2_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7326::2_1\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "//s2.juancdn.com/bao/170522/9/9/59229d7bad0a49424d8b45b1_375x228.jpg?iopcmd=convert&Q=88&dst=jpg",
+                "url": "https://mact.juanpi.com/liangfancs3?mjuanpi_wx=1",
+                "layout": "row",
+                "width": 0.5,
+                "height": 0.5,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7327",
+                "similar": 2,
+                "x_record": "2_2",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7327::2_2\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              },
+              {
+                "pic": "//s2.juancdn.com/bao/170522/d/3/5922b883a43d1f5aa86768d0_375x228.jpg?iopcmd=convert&Q=88&dst=jpg",
+                "url": "https://tuan.juanpi.com/topic/meirichoujiang?pt_src=ggmk_2&mjuanpi_wx=1",
+                "layout": "row",
+                "width": 0.5,
+                "height": 0.5,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "7328",
+                "similar": 2,
+                "x_record": "2_3",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::2808::img_id::7328::2_3\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "show_type": 1,
+        "block_type": 1,
+        "split_line": "0",
+        "margin_enabled": 10,
+        "data": [
+          {
+            "width": 1,
+            "triangle": 0,
+            "height": 0.128,
+            "child": [
+              {
+                "pic": "//s2.juancdn.com/bao/170310/0/f/58c20db7a43d1f63427015d8_750x96.jpg?iopcmd=convert&Q=88&dst=jpg",
+                "url": "",
+                "layout": "col",
+                "width": 1,
+                "height": 1,
+                "countdown": {
+                  "enable_time": "0",
+                  "start_time": "",
+                  "end_time": "",
+                  "start_text": "",
+                  "end_text": ""
+                },
+                "bd_id": "743",
+                "x_record": "3_1",
+                "activityname": "click_cube_block",
+                "server_jsonstr": "{\"pit_info\":\"ad_id::249::block_id::697::img_id::743::3_1\",\"cid\":-1,\"_t\":1495702448,\"_z\":\"5\",\"ab_info\":null}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "block_background_color": "",
+    "block_background_image": ""
+  },
+  "banner_ads": [
+    {
+      "pic": "//s2.juancdn.com/bao/170522/d/9/5922b794a43d1f58dd707487_750x290.png?iopcmd=convert&Q=80&dst=png",
+      "url": "https://mact.juanpi.com/mengtong524?mjuanpi_wx=1",
+      "id": "12499",
+      "size": "750*290",
+      "title": "开售524主会场",
+      "server_jsonstr": "{\"pit_info\":\"banner::12499::1_1\",\"cid\":\"\",\"_t\":1495702448}",
+      "x_record": "1_1",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "//s2.juancdn.com/bao/170524/7/e/59255ceaa43d1f591d34e5e7_750x290.png?iopcmd=convert&Q=80&dst=png",
+      "url": "https://m.juanpi.com/brand/1790483?shop_id=2897292",
+      "id": "12560",
+      "size": "750*290",
+      "title": "女装-烟花烫",
+      "server_jsonstr": "{\"pit_info\":\"banner::12560::1_2\",\"cid\":\"\",\"_t\":1495702448}",
+      "x_record": "1_2",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "//s2.juancdn.com/bao/170524/5/e/59255d18a43d1f59790390a9_750x290.png?iopcmd=convert&Q=80&dst=png",
+      "url": "https://mact.juanpi.com/ynfjtr?mjuanpi_wx=1",
+      "id": "12561",
+      "size": "750*290",
+      "title": "美妆-御泥坊集团日",
+      "server_jsonstr": "{\"pit_info\":\"banner::12561::1_3\",\"cid\":\"\",\"_t\":1495702448}",
+      "x_record": "1_3",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "//s2.juancdn.com/bao/170524/f/1/59255d3ea43d1f59ee54d7e1_750x290.png?iopcmd=convert&Q=80&dst=png",
+      "url": "https://m.juanpi.com/brand/1790483?shop_id=2327269",
+      "id": "12562",
+      "size": "750*290",
+      "title": "鞋子-戈美其",
+      "server_jsonstr": "{\"pit_info\":\"banner::12562::1_4\",\"cid\":\"\",\"_t\":1495702448}",
+      "x_record": "1_4",
+      "activityname": "click_ad_banner"
+    },
+    {
+      "pic": "//s2.juancdn.com/bao/170524/6/5/59255d78a43d1f58e521f246_750x290.png?iopcmd=convert&Q=80&dst=png",
+      "url": "https://m.juanpi.com/brand/1790483?shop_id=2029210",
+      "id": "12565",
+      "size": "750*290",
+      "title": "配饰-卡西欧",
+      "server_jsonstr": "{\"pit_info\":\"banner::12565::1_5\",\"cid\":\"\",\"_t\":1495702448}",
+      "x_record": "1_5",
+      "activityname": "click_ad_banner"
+    }
+  ],
+  "topbanner": {
+    "pic": "",
+    "pic_url": "//jp.juancdn.com/jpwebapp/images/go_load_new.png",
+    "url": "//m.juanpi.com/landing/app_1437990734"
+  },
+  "popup_ads": []
+}

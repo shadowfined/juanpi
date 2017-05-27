@@ -1,0 +1,118 @@
+.mine_head{
+    height: 144px;
+    background:linear-gradient(146deg,#ff464e 34%,#fc7400)
+}
+.mine_header{
+    height:44px;
+    line-height: 44px;
+    color: #ffffff;
+    text-align: center;
+}
+.mine_login{
+    height:78px;
+    font-size: 20px;
+
+}
+.mine_login li{
+    float: left;
+    width:50%;
+    height:100%;
+    line-height:78px;
+    text-align: center;
+
+}
+.mine_comment{
+    height:387px;
+    background: #f4f4f8;
+}
+.mine_login li a{
+    color: #ffffff;
+}
+.mine_indent{
+    height:48px;
+    line-height:48px;
+    font-size: 15px;
+    padding:0 28px 0 36px;
+    background: #ffffff;
+    margin:0 0 1px 0;
+
+}
+.mine_indent a{
+    color: #666;
+}
+.mine_indent span{
+    float: right;
+    color: #333;
+}
+.mine_icon{
+    height: 79px;
+    padding: 15px 0 12px 0;
+    background: #ffffff;
+
+}
+.mine_icon li{
+    width:25%;
+    height:100%;
+    float: left;
+    font-size:12px;
+    color: #666;
+    text-align: center;
+}
+.mine_comment ul{
+    background: #ffffff;
+    font-size: 15px;
+}
+.mine_pri{
+    height: 144px;
+    margin: 10px 0 ;
+    padding: 0 14px 0 18px;
+
+}
+.mine_pri li{
+    height:48px;
+    width:100%;
+    line-height:48px;
+
+}
+.mine_pri span{
+    float: right;
+}
+.mine_cus {
+    height:96px;
+    padding: 0 14px 0 18px;
+    margin-bottom:10px;
+
+}
+.mine_cus li{
+    height:50%;
+    width:100%;
+    line-height:48px;
+
+
+}
+.mine_cus span{
+    float: right;
+}
+.mine_footer{
+    height: 80px;
+    font-size: 0.23rem;
+    color: #666;
+}
+.mine_footer ul{
+    height:41px;
+
+
+}
+.mine_footer ul li{
+    float: left;
+    width:33%;
+    height:100%;
+    line-height:41px;
+    text-align: center;
+}
+.mine_footer h4{
+    height:12px;
+    line-height:12px;
+    text-align: center;
+    color: #444;
+}

@@ -1,0 +1,41 @@
+
+#wrap {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    width: 100%;
+    height: 93%;
+    overflow: scroll;
+}
+
+#tab {
+    width: 100%;
+    height: 7.5%;
+    background: white;
+    border-top: 1px solid lightgray;
+    position: fixed;
+    bottom: 0;
+}
+
+#tab > ul {
+    width: 100%;
+    height: 100%;
+}
+
+#tab > ul > li {
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    font-size: 0.25rem;
+
+}
+#tab > ul > li>a{
+    padding-top: .5rem;
+    display: inline-block;
+    width:100%;
+    height: 100%;
+    color: #999;
+}

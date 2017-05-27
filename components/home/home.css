@@ -1,0 +1,28 @@
+.home .home_header img{
+    height:56px;
+    width:100%;
+}
+.home {
+    font-size:14px;
+    color: #333;
+}
+.home h2{
+    height:40px;
+    line-height:40px;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+.home .home_list{
+    height: 38px;
+
+}
+.home .home_list li{
+    width:25%;
+    height:100%;
+    line-height:38px;
+    float: left;
+    top:0;
+    overflow:auto;
+    text-align: center;
+}
